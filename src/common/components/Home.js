@@ -32,14 +32,13 @@ class Home extends Component {
 				<div className="skill-item clearfix">
 					<h4>Client Side JS</h4>
 					<ul className="">
-						<li><em>Backbone</em></li>
-						<li><em><b>*</b><b>*</b>React</em>
+						<li><em>Angular</em></li>
+						<li><em><b>*</b>React</em>
 							<ul>
 								<li><em><b>*</b>Redux</em></li>
-								<li><em>Flux</em></li>
 							</ul>
 						</li>
-						<li><em>D3</em></li>
+						<li><em>Mithril</em></li>
 					</ul>
 				</div>
 
@@ -51,9 +50,9 @@ class Home extends Component {
 						<li><em><b>*</b>Node</em>
 							<ul>
 								<li><em><b>*</b>Express</em></li>
-								<li><em>Hapi</em></li>
 							</ul>
 						</li>
+						<li><em>PostgreSQL</em></li>
 					</ul>
 				</div>
 
@@ -62,15 +61,15 @@ class Home extends Component {
 					<ul>
 						<li><em>Jasmine</em></li>
 						<li><em>Karma</em></li>
-						<li><em>Protractor</em></li>
-						<li><em>Jest</em></li>
+						<li><em>Mocha</em></li>
+						<li><em>Chai</em></li>
 					</ul>
 				</div>
 
 				<div className="skill-item clearfix">
 					<h4>Deployment</h4>
 					<ul className="clearfix">
-						<li><em><b>*</b>Nginx</em></li>
+						<li><em><b>*</b>Heroku</em></li>
 						<li><em><b>*</b>Webpack</em></li>
 						<li><em>Gulp</em></li>
 						<li><em>Grunt</em></li>
@@ -79,7 +78,6 @@ class Home extends Component {
 
 				<div className="exclaimation">
 					<em><b>*</b> This site is built with these technologies. View the <a href="https://github.com/caljrimmer/portfolio-redux-app">github repo here</a>.</em><br/>
-					<em><b>**</b> Yep, I know React can be used on the server side too. This site is Isomorphical rendered.</em>
 				</div>
 
   			</div>
@@ -87,17 +85,6 @@ class Home extends Component {
 
   			<div className="post clearfix">
 
-				<h2>Companies I have worked with:</h2>
-
-				<ul className="clients">
-					<li className="goldmans-logo">Goldman Sachs</li>
-					<li className="orange-logo">Orange</li>
-					<li className="tesco-logo">Tesco</li>
-					<li className="timeout-logo">Timeout</li>
-					<li className="wiley-logo">John Wiley and Sons</li>
-					<li className="covestor-logo">Covestor</li>
-					<li className="shipserv-logo">Shipserv</li>
-				</ul>
 
 			</div>
 
