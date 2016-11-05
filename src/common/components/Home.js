@@ -20,8 +20,8 @@ class Home extends Component {
       	<div className="posts">
   
   			<div className="post banner">
-			    <h1 className="post-title">I build <em>scalable</em>, <em>maintainable</em> and <em>secure</em> enterprise web applications.</h1>
-    			<p>for <em>agencies</em>, <em>bluechips</em>, <em>start-ups</em> and sometimes, <em>myself</em>. <a href="#" onClick={this.eventToggleSidebar}> Find out More</a></p>
+			    <h1 className="post-title">I build <em>web applications</em>, <em>mobile applications</em>, and <em>games</em> using JavaScript.</h1>
+    			<p>I have worked in the <em> sports </em> industry, the <em>healthcare</em> industry, for a <em>non-profit</em>, and at a <em>start-up</em>. <a href="#" onClick={this.eventToggleSidebar}> Find out More about</a> my experience in business and design</p>
 
 			</div>
   
@@ -33,9 +33,9 @@ class Home extends Component {
 					<h4>Client Side JS</h4>
 					<ul className="">
 						<li><em>Angular</em></li>
-						<li><em><b>*</b>React</em>
+						<li><em><b></b>React</em>
 							<ul>
-								<li><em><b>*</b>Redux</em></li>
+								<li><em><b></b>Redux</em></li>
 							</ul>
 						</li>
 						<li><em>Mithril</em></li>
@@ -47,9 +47,9 @@ class Home extends Component {
 					<h4>Server Side JS</h4>
 					<ul>
 						<li><em>MongoDB</em></li>
-						<li><em><b>*</b>Node</em>
+						<li><em><b></b>Node</em>
 							<ul>
-								<li><em><b>*</b>Express</em></li>
+								<li><em><b></b>Express</em></li>
 							</ul>
 						</li>
 						<li><em>PostgreSQL</em></li>
@@ -69,16 +69,14 @@ class Home extends Component {
 				<div className="skill-item clearfix">
 					<h4>Deployment</h4>
 					<ul className="clearfix">
-						<li><em><b>*</b>Heroku</em></li>
-						<li><em><b>*</b>Webpack</em></li>
+						<li><em><b></b>Heroku</em></li>
+						<li><em><b></b>Webpack</em></li>
 						<li><em>Gulp</em></li>
 						<li><em>Grunt</em></li>
 					</ul>
 				</div>
 
-				<div className="exclaimation">
-					<em><b>*</b> This site is built with these technologies. View the <a href="https://github.com/caljrimmer/portfolio-redux-app">github repo here</a>.</em><br/>
-				</div>
+
 
   			</div>
 
