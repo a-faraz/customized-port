@@ -16,7 +16,7 @@ export default (
   <Route name="app" path="/" component={App}>
       <Route path="home" component={HomePage} />
       <Route path="portfolio" component={PortfolioPage} />
-      <Route path="services" component={ServicesPage} />
+      // <Route path="services" component={ServicesPage} />
       <Route path="about" component={AboutPage} />
       <Route path="*" component={error404}/>
   </Route>

@@ -23,7 +23,7 @@ class Services extends Component {
 
 	      	<p>I can help you or your employees develop their web development coding skills. I have been teaching code to both beginners and professionals for many years.</p>
 
-	      	<p>I have my own training company called <a href="http://pencil.training" target="_blank">Pencil Training</a>. More details can be found <a href="http://pencil.training" target="_blank">here</a>.</p>
+	      	
 
 	      </div>
 

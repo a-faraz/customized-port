@@ -1,9 +1,9 @@
 export function getPortfolio() {
   return [
     {
-    	link : 'https://shift-ninja.herokuapp.com/',
-    	title : 'Shift-Ninja',
-    	classname : 'goldmans',
+    	link : 'https://github.com/a-faraz/shift-ninja',
+    	title : 'Shift swapping app for Starbucks employees',
+    	classname : 'shiftninja',
     	roles : [
     		{
     			title : 'Full Stack Developer',
@@ -13,8 +13,8 @@ export function getPortfolio() {
     },
     {
     	link : 'https://github.com/a-faraz/Co-Star',
-    	title : 'Co-Star',
-    	classname : 'orange',
+    	title : 'Interactive movie database',
+    	classname : 'costar',
     	roles : [
     		{
     			title : 'Full Stack Developer',
@@ -23,15 +23,26 @@ export function getPortfolio() {
     	]
     },
     {
-    	link : 'https://react-chesss.herokuapp.com/',
-    	title : 'React-Chess',
-    	classname : 'pwul',
+    	link : 'https://github.com/a-faraz/react-chess',
+    	title : 'Online multiplayer chess game',
+    	classname : 'chess',
     	roles : [
     		{
     			title : 'Full Stack Developer',
     			skills : 'JavaScript, React, Bootstrap, PostgreSQL, Node, Socket.io'
     		}
     	]
+    },
+    {
+        link : 'https://github.com/a-faraz/find-me-coffee',
+        title : 'Local coffee-shop finder',
+        classname : 'coffee',
+        roles : [
+            {
+                title : 'Full Stack Developer',
+                skills : 'JavaScript, React-Native, Node, Yelp API'
+            }
+        ]
     }
   ]
 }

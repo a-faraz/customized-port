@@ -25,20 +25,21 @@ class About extends Component {
 
       	  	<h3>About Me</h3>
 
-      	  	<p>I grew up in Houston, Texas and attended the University of Houston where I got my Bachelors in Managment Information Systems.</p> 
+      	  	<p>I grew up in Houston Texas and attended the University of Houston where I got my Bachelors in Managment Information Systems.</p> 
 
       	  	<p>During my college career, I enrolled in many programming and business classes. I was fortunate enough to partake in internships which required a variety of skills. </p>
 
             <p>At my first internship, as a Corporate Development Intern for the Houston Rockets, I learned to utilize my business and communication skills. 
             <br />My second internhip was with The Citizen's Foundation, where I utilized agile methodologies to develop software for a Non-Profit.</p>
 
-      	  	<p>After graduating, I worked as a Business Analyst. I was working face to face with clients and handling fincances.</p>
+      	  	<p>After graduating, I worked as a Business Analyst. I was working face to face with clients and handling finances for my branch.</p>
             <p>Meanwhile, I started my own company, a clothing line, where I handled everything from design, to marketing, to the e-commerce.</p>
-            <p>Afterwards, I worked as a Systems Analyst for a healthcare administration company, where I was responsible for three clients. I handled  their employees' benefits data and web applications.</p>
+            <p>Afterwards, I worked as a Application Developer for a healthcare administration company, where I was responsible for three clients. I handled their employees' benefits data and web applications.</p>
       	 
 	      </div>
 
 	      <div className="repos">
+        {/**
 	      	<h3><a href="https://github.com/a-faraz?tab=repositories" target="_blank">My GitHub</a> Repos</h3>
 	        {isFetching && results.length === 0 &&
 	          	<Loader />
@@ -54,8 +55,8 @@ class About extends Component {
 	            <Repos results={results} />
 	          </div>
 	        }
-	      </div>
-
+      **/}
+        </div>
       </div>
     );
   }

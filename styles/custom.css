@@ -2,6 +2,10 @@
    color:#fff;
 }
 
+.sidebar-info {
+  padding: 5px 5px 5px 15px;
+}
+
 /**
 * Loader
 */
@@ -62,7 +66,7 @@ ul.clients li {
    text-indent:-5000px;
    box-shadow:1px 1px 1px #ccc;
 }
-
+/*
 ul.clients li.goldmans-logo {
    background: url('assets/goldmans-logo.jpg') no-repeat;
    width:124px;
@@ -97,7 +101,7 @@ ul.clients li.shipserv-logo {
    background: url('assets/shipserv-logo.jpg') no-repeat;
    width:218px;
 }
-
+*/
 /**
 * Skill Boxes on Home Page
 */

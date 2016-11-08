@@ -11,11 +11,10 @@
 }
 
 .portfolio_item h2 {
-    font-size: 24px;
+    font-size: 20px;
     margin: 20px 0 20px 0;
     text-align: right;
     padding-top: 250px;
-    text-transform:uppercase;
     font-weight:bold;
 }
 
@@ -60,38 +59,18 @@
 * Individual
 */
 
-.goldmans {
-	background:#fff url(assets/goldmans.jpg) top no-repeat;
+.shiftninja {
+	background:#fff url(assets/ninja.png) top no-repeat;
 }
 
-.orange {
-	background:#fff url(assets/orange.jpg) top no-repeat;
+.costar {
+	background:#fff url(assets/costar.png) top no-repeat;
 }
 
-.tesco {
-	background:#fff url(assets/tesco.png) top no-repeat;
+.chess {
+	background:#fff url(assets/rchess.jpg) top no-repeat;
 }
 
-.timeout {
-	background:#fff url(assets/timeout.png) top no-repeat;
-}
-
-.wiley {
-	background:#fff url(assets/wiley.png) top no-repeat;
-}
-
-.hellas {
-	background:#fff url(assets/hellas.png) top no-repeat;
-}
-
-.shipserv {
-	background:#fff url(assets/shipserv.png) top no-repeat;
-}
-
-.covestor {
-	background:#fff url(assets/covestor.png) top no-repeat;
-}
-
-.pwul {
-	background:#fff url(assets/pwul.jpg) top no-repeat;
+.coffee {
+    background:#fff url(assets/coffee.jpg) top no-repeat;
 }
