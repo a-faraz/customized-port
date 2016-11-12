@@ -34,7 +34,7 @@ class About extends Component {
 
       	  	<p>After graduating, I worked as a Business Analyst. I was working face to face with clients and handling finances for my branch.</p>
             <p>Meanwhile, I started my own company, a clothing line, where I handled everything from design, to marketing, to the e-commerce.</p>
-            <p>Afterwards, I worked as a Application Developer for a healthcare administration company, where I was responsible for three clients. I handled their employees' benefits data and web applications.</p>
+            <p>Afterwards, I worked as an Applications Developer for a healthcare administration company, where I was responsible for three clients. I handled their employees' benefits data and web applications.</p>
       	 
 	      </div>
 
