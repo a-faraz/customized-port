@@ -1,10 +1,12 @@
 .repos {
 	width:46%;
+	float: right;
 }
 
 .about,
 .services {
 	width:50%;
+	float: left;
 	font-size:16px;}
 
 .repos h3 {
@@ -20,7 +22,7 @@
 	font-size:16px;
 }
 
-@media {
+@media (max-width: 40em) {
 	.about,
 	.repos {
 		width:100%;
