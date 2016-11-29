@@ -1,5 +1,6 @@
-# Portfolio App build with React and Redux
+# Portfolio App built with React and Redux
 
+My custom website.
 
 
 ## Credit
