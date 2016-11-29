@@ -21,7 +21,7 @@ class Home extends Component {
   
   			<div className="post banner">
 			    <h1 className="post-title">I build <em>web applications</em>, <em>mobile applications</em>, and <em>games</em> using JavaScript.</h1>
-    			<p>I have worked in the <em> sports </em> industry, the <em>healthcare</em> industry, for a <em>non-profit</em>, and at a <em>start-up</em>. Find out more about my experience in <a href="#" onClick={this.eventToggleSidebar}> business and design.</a></p>
+    			<p>I have worked in the <em> sports </em> industry, the <em>healthcare</em> industry, for a <em>non-profit</em>, and at a <em>start-up</em>. Find out more about my <a href="#" onClick={this.eventToggleSidebar}> experience.</a></p>
 
 			</div>
   
@@ -38,7 +38,7 @@ class Home extends Component {
 							</ul>
 						</li>
 						<li><em>Angular</em></li>
-						<li><em>Mithril</em></li>
+						<li><em>Ionic</em></li>
 					</ul>
 				</div>
 
@@ -59,20 +59,20 @@ class Home extends Component {
 				<div className="skill-item clearfix">
 					<h4>Testing</h4>
 					<ul>
-						<li><em>Karma</em></li>
 						<li><em>Mocha</em></li>
 						<li><em>Jasmine</em></li>
-						<li><em>Chai</em></li>
+						<li><em>ngMocks</em></li>
+						<li><em>Enzyme</em></li>
 					</ul>
 				</div>
 
 				<div className="skill-item clearfix">
-					<h4>Deployment</h4>
+					<h4>Tools</h4>
 					<ul className="clearfix">
-						<li><em><b></b>Heroku</em></li>
-						<li><em>AWS</em></li>
-						<li><em>Gulp</em></li>
 						<li><em><b></b>Webpack</em></li>
+						<li><em>JSHint / JSLint</em></li>
+						<li><em>Gulp / Grunt</em></li>
+						<li><em><b></b>Heroku / AWS</em></li>
 					</ul>
 				</div>
 

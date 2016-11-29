@@ -19,7 +19,6 @@ class Sidebar extends Component {
     return (
 
     	<div className="sidebar">
-    		<div className="sidebar-info">Website was built with React / Redux </div>
 
 		  <div className="sidebar-item sidebar-footer">
 		  </div>
@@ -40,7 +39,7 @@ class Sidebar extends Component {
 
 
 		  </div>
-
+    		<div className="sidebar-info">Website was built with React / Redux </div>
 		</div>
     );
   }
