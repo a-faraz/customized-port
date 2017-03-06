@@ -63,8 +63,12 @@
 	background:#fff url(assets/ninja.png) top no-repeat;
 }
 
+.spotified {
+	background:#fff url(assets/spotified.png) top no-repeat;
+}
+
 .costar {
-	background:#fff url(/dist/06c3d546c4434b0e1fec561659a35343.png) top no-repeat;
+	background:#fff url(assets/costar.png) top no-repeat;
 }
 
 .chess {

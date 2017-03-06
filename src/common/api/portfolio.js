@@ -12,6 +12,17 @@ export function getPortfolio() {
     	]
     },
     {
+      link : 'https://github.com/a-faraz/spotified',
+      title : 'Spotify Search App',
+      classname : 'spotified',
+      roles : [
+        {
+          title : 'Full Stack Developer',
+          skills : 'JavaScript, React, Node, Express'
+        }
+      ]
+    },
+    {
     	link : 'https://github.com/a-faraz/Co-Star',
     	title : 'Interactive movie database',
     	classname : 'costar',
