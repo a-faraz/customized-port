@@ -30,8 +30,7 @@ if (process.env.NODE_ENV === 'production') {
         include: __dirname
       },
       { test: /\.(png|jpg|gif|jpeg)$/, loader: 'url-loader?limit=8192'},
-      { test: /\.css$/, loader: 'style-loader!css-loader' }
-      // { test: /\.css$/, loader: ExtractTextPlugin.extract('style-loader', 'css-loader?sourceMap') }
+      { test: /\.css$/, loader: ExtractTextPlugin.extract('style-loader', 'css-loader?sourceMap') }
     ]},
     plugins : [
       new webpack.DefinePlugin({
