@@ -60,7 +60,8 @@
 */
 
 .shiftninja {
-	background:#fff url(assets/ninja.png) top no-repeat;
+	background:#fff url(dist/77d11c50bf28b0a3efde598b71a6eb59.png) top no-repeat;
+	/*background:#fff url(assets/ninja.png) top no-repeat;*/
 }
 
 .spotified {
@@ -68,13 +69,16 @@
 }
 
 .costar {
-	background:#fff url(assets/costar.png) top no-repeat;
+	background:#fff url(dist/06c3d546c4434b0e1fec561659a35343.png) top no-repeat;
+	/*background:#fff url(assets/costar.png) top no-repeat;*/
 }
 
 .chess {
-	background:#fff url(assets/rchess.jpg) top no-repeat;
+	background:#fff url(dist/0b0b87ef5f7e5d0e35a179204c245fb1.jpg) top no-repeat;
+	/*background:#fff url(assets/rchess.jpg) top no-repeat;*/
 }
 
 .coffee {
-    background:#fff url(assets/coffee.jpg) top no-repeat;
+	background:#fff url(dist/5f08b6472d56e2222dd4529ba934bc57.jpg) top no-repeat;
+    /*background:#fff url(assets/coffee.jpg) top no-repeat;*/
 }
