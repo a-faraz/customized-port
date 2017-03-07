@@ -36,7 +36,7 @@ export function getPortfolio() {
     {
     	link : 'https://github.com/a-faraz/react-chess',
     	title : 'Online multiplayer chess game',
-    	classname : 'chess',
+    	classname : 'rchess',
     	roles : [
     		{
     			title : 'Full Stack Developer',
